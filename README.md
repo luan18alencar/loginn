@@ -35,7 +35,7 @@ A validação de campos é básica e pode ser aprimorada com regras mais complex
 A funcionalidade de recuperação de senha é apenas simulação e não envia e-mails reais.
 Publicação:
 
-O projeto foi publicado nas plataformas:
+## O projeto foi publicado nas plataformas:
 
 Github: https://github.com/luan18alencar/loginn
 Linkedin: 
