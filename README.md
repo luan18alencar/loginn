@@ -20,7 +20,8 @@
 
 ## Requisitos para execução:
 
-Navegador web com suporte a Javascript.
+    Navegador web com suporte a Javascript.
+
 ## Instruções de uso:
 
     Acesse o repositório Github do projeto: https://github.com/luan18alencar/loginn.

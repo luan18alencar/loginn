@@ -15,12 +15,5 @@ form.addEventListener('submit', (event) => {
         
     }
 window.location.href = "pagina.html";
-
- 
-const login_botton = document.getElementById('login')
- 
-loginForm.addEventListener('submit', (event) => {
-    event.preventDefault();
-    window.location.href='index.html';
-})})
+})
  
