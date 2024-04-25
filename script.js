@@ -11,6 +11,6 @@ form.addEventListener('submit', (event) => {
         window.location.href = 'index.html';
     } else {
       
-        alert('Email ou senha incorretos.');
+        
     }
 });
